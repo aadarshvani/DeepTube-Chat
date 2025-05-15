@@ -16,7 +16,6 @@ langchain-community
 langchain-openai
 langchain-anthropic
 google-generativeai
-langchain-cohere
 langchain-fireworks
 langchain-mistralai
 langchain-groq
@@ -29,7 +28,7 @@ langserve
 # LLM Integration
 openai
 anthropic
-cohere-python
+cohere
 tiktoken
 
 # Embeddings
@@ -48,7 +47,6 @@ youtube-transcript-api
 pypdf2
 python-docx
 unstructured
-langchain-document-loaders
 
 # Database
 sqlalchemy
