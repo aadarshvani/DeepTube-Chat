@@ -30,6 +30,11 @@ DeepTube Chat is an advanced interactive platform that enables users to have mea
 
 Whether you're a student trying to understand educational content, a researcher analyzing interviews, or simply someone looking to get quick insights from long videos without watching them entirely, DeepTube Chat offers an intelligent solution.
 
+## 🧭 Project Workflow
+
+![Workflow Diagram](./images/project_structure.png)
+
+
 ## 🎬 Demo
 
 [View Live Demo](https://deeptube-chat.yourdomain.com)
