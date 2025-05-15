@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+youtube-transcript-api
+langchain
+openai
+chromadb
+pypdf2
+python-docx
+unstructured
+llama-index
+tiktoken
+python-dotenv

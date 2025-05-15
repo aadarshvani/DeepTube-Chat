@@ -1,0 +1,10 @@
+{
+    "project_name": "DeepTube Chat",
+    "project_slug": "deep_tube_chat",
+    "description": "A YouTube chatbot using LLMs, RAG, and LangChain",
+    "author_name": "Your Name",
+    "email": "your@email.com",
+    "backend_framework": "FastAPI",
+    "frontend_framework": "Streamlit",
+    "license": "MIT"
+}
